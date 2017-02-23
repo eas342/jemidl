@@ -1,0 +1,72 @@
+CMDgal0 = { CMDgal, $
+            galid:         0L, $
+	    select:        0B, $
+            radcheck:      0B, $
+            starcheck:     0B, $
+            morphcheck:    0B, $
+            specmem:       0B, $
+            specnon:       0B, $
+            no2:           0B, $
+            o2:            0B, $
+            noclue:        0B, $
+	    ra:            !values.d_nan, $
+	    dec:           !values.d_nan, $
+	    aim:           !values.f_nan, $
+	    bim:           !values.f_nan, $
+	    kron:          !values.f_nan, $
+	    theta:         !values.f_nan, $
+	    rad:           !values.f_nan, $
+	    z850:          !values.f_nan, $
+	    z850err:       !values.f_nan, $
+	    i775:          !values.f_nan, $
+	    i775err:       !values.f_nan, $
+            iz:            !values.f_nan, $
+            izerr:         !values.f_nan, $
+	    rsresid:       !values.f_nan, $
+            gini:          !values.f_nan, $
+            asym:          !values.f_nan, $
+            Re:            !values.f_nan, $
+            n:             !values.f_nan, $
+            SNname:        '', $
+            SNtype:        '', $
+            zspec:         !values.f_nan, $
+	    o2EW:          !values.f_nan, $
+	    o2EWerr:       !values.f_nan $
+          }
+
+RSfit0 = { RSfit, $
+           slope:         !values.d_nan, $
+           slope_err:     !values.d_nan, $
+           intercept:     !values.d_nan, $ ;;at z=23
+           intercept_err: !values.d_nan, $
+           mscatter:      !values.d_nan, $ ;;measured scatter
+           mscatter_err:  !values.d_nan, $
+           mscatter_best: !values.d_nan, $
+           scatter_corr:  !values.d_nan, $
+           iscatter:      !values.d_nan, $ ;;intrinsic scatter
+	   iscatter_err:  !values.d_nan, $
+	   iscatUL:       !values.d_infinity, $
+	   iscatLL:       -1.*!values.d_infinity, $
+           ngals:         !values.f_nan, $
+	   xhist:         ptr_new(), $  ;;cluster histogram
+	   yhist:         ptr_new(), $
+	   bkgxhist:      ptr_new(), $  ;;background histogram
+           bkgyhist:      ptr_new(), $
+	   xplot:         ptr_new(), $  ;;fit to cluster
+	   yplot:         ptr_new(), $
+           bkgxplot:      ptr_new(), $  ;;fit to background
+           bkgyplot:      ptr_new(), $
+	   histmax:       0, $
+	   inliers:       ptr_new(), $
+	   outliers:      ptr_new(), $
+	   magrange:      fltarr(2), $
+	   bluelimit:     0. $
+         }
+
+CMDcluster0 = { CMDcluster, $
+                clusterid:   '', $
+                clustername: '', $
+                zcluster:    !values.d_nan, $
+                fit:         ptr_new(), $
+                gals:        ptr_new() $
+              }

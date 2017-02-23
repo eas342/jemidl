@@ -1,0 +1,6 @@
+MODULE jem_avsigclip
+DESCRIPTION JEM version of avsigclip algorithm
+VERSION 1.0
+SOURCE Josh Meyers
+BUILD_DATE Jan 13 2009
+FUNCTION JEM_AVSIGCLIP 5 5

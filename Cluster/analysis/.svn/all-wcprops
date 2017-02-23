@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/scp/!svn/ver/6941/members/jmeyers314/IDL/Cluster/analysis
+END
+rsnsigmacheck.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/rsnsigmacheck.pro
+END
+plot1cmd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/analysis/plot1cmd.pro
+END
+find_rs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/2323/members/jmeyers314/IDL/Cluster/analysis/find_rs.pro
+END
+skystats.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/2678/members/jmeyers314/IDL/Cluster/analysis/skystats.pro
+END
+cmd2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/cmd2.pro
+END
+fit_rs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/scp/!svn/ver/2678/members/jmeyers314/IDL/Cluster/analysis/fit_rs.pro
+END
+selectgals.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/selectgals.pro
+END
+fit_rs10.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/fit_rs10.pro
+END
+fit_rs11.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/fit_rs11.pro
+END
+cmdclass.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/2323/members/jmeyers314/IDL/Cluster/analysis/cmdclass.pro
+END
+fit_rs12.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/fit_rs12.pro
+END
+combine1.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/2451/members/jmeyers314/IDL/Cluster/analysis/combine1.pro
+END
+makewebcmd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/scp/!svn/ver/2323/members/jmeyers314/IDL/Cluster/analysis/makewebcmd.pro
+END
+CMDmosaic.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/scp/!svn/ver/1710/members/jmeyers314/IDL/Cluster/analysis/CMDmosaic.pro
+END
+define_structs.old
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/scp/!svn/ver/6929/members/jmeyers314/IDL/Cluster/analysis/define_structs.old
+END
+measureo2old.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/measureo2old.pro
+END
+cmd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/analysis/cmd.pro
+END
+addspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/analysis/addspec.pro
+END
+define_structs2
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/define_structs2
+END
+colorim.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/2323/members/jmeyers314/IDL/Cluster/analysis/colorim.pro
+END
+plotmorphcuts2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/analysis/plotmorphcuts2.pro
+END
+cmdimage.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/2323/members/jmeyers314/IDL/Cluster/analysis/cmdimage.pro
+END
+measureRS.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/scp/!svn/ver/1639/members/jmeyers314/IDL/Cluster/analysis/measureRS.pro
+END
+fit_rs2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/analysis/fit_rs2.pro
+END
+fit_rs3.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/fit_rs3.pro
+END
+fit_rs4.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/fit_rs4.pro
+END
+fit_rs5.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/fit_rs5.pro
+END
+fit_rs6.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/fit_rs6.pro
+END
+fit_rs7.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/fit_rs7.pro
+END
+fit_rs8.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/fit_rs8.pro
+END
+acsres.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/scp/!svn/ver/2323/members/jmeyers314/IDL/Cluster/analysis/acsres.pro
+END
+plotmorphcuts.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/analysis/plotmorphcuts.pro
+END
+plot_cmd2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/plot_cmd2.pro
+END
+define_cluster_structs
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/scp/!svn/ver/6941/members/jmeyers314/IDL/Cluster/analysis/define_cluster_structs
+END
+errscat2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/analysis/errscat2.pro
+END
+vismorphcomp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/scp/!svn/ver/2323/members/jmeyers314/IDL/Cluster/analysis/vismorphcomp.pro
+END
+rsregioncheck.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/analysis/rsregioncheck.pro
+END
+objmask.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/2678/members/jmeyers314/IDL/Cluster/analysis/objmask.pro
+END
+plotcore.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/2451/members/jmeyers314/IDL/Cluster/analysis/plotcore.pro
+END
+plot1astrometry.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/analysis/plot1astrometry.pro
+END
+geterrs2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/2451/members/jmeyers314/IDL/Cluster/analysis/geterrs2.pro
+END
+geterrs3.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/2451/members/jmeyers314/IDL/Cluster/analysis/geterrs3.pro
+END
+geterrs4.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/2451/members/jmeyers314/IDL/Cluster/analysis/geterrs4.pro
+END
+geterrs5.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/2451/members/jmeyers314/IDL/Cluster/analysis/geterrs5.pro
+END
+plot_cmd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/analysis/plot_cmd.pro
+END
+geterrs6.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/2451/members/jmeyers314/IDL/Cluster/analysis/geterrs6.pro
+END
+measureo2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/analysis/measureo2.pro
+END
+geterrs7.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/analysis/geterrs7.pro
+END
+cmdmovie.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/7090/members/jmeyers314/IDL/Cluster/analysis/cmdmovie.pro
+END
+errscat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/2323/members/jmeyers314/IDL/Cluster/analysis/errscat.pro
+END
+geterrs8.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/geterrs8.pro
+END
+plot1cmd1.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/analysis/plot1cmd1.pro
+END
+skystats2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/analysis/skystats2.pro
+END
+geterrs.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/2451/members/jmeyers314/IDL/Cluster/analysis/geterrs.pro
+END
+combine.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/2451/members/jmeyers314/IDL/Cluster/analysis/combine.pro
+END
+skymaskobj.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/scp/!svn/ver/2451/members/jmeyers314/IDL/Cluster/analysis/skymaskobj.pro
+END

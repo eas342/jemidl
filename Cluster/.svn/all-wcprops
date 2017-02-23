@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/scp/!svn/ver/7009/members/jmeyers314/IDL/Cluster
+END
+import_sexcat.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/scp/!svn/ver/1558/members/jmeyers314/IDL/Cluster/import_sexcat.pro
+END
+definestructs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/scp/!svn/ver/2678/members/jmeyers314/IDL/Cluster/definestructs
+END
+makegalfit1.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/scp/!svn/ver/2678/members/jmeyers314/IDL/Cluster/makegalfit1.pro
+END
+cleancats.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/scp/!svn/ver/1558/members/jmeyers314/IDL/Cluster/cleancats.py
+END
+newisophotsky.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/scp/!svn/ver/2452/members/jmeyers314/IDL/Cluster/newisophotsky.pro
+END
+makegalfit3.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/scp/!svn/ver/2678/members/jmeyers314/IDL/Cluster/makegalfit3.pro
+END
+preparedirgoods.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/scp/!svn/ver/2678/members/jmeyers314/IDL/Cluster/preparedirgoods.pro
+END
+cluster__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/scp/!svn/ver/1639/members/jmeyers314/IDL/Cluster/cluster__define.pro
+END
+addspectra1.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/addspectra1.pro
+END
+preparedir.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/preparedir.pro
+END
+preparedirsn.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/scp/!svn/ver/6934/members/jmeyers314/IDL/Cluster/preparedirsn.pro
+END
+galapagos.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/scp/!svn/ver/1639/members/jmeyers314/IDL/Cluster/galapagos.pro
+END
+gal_isophot_sky.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/scp/!svn/ver/1639/members/jmeyers314/IDL/Cluster/gal_isophot_sky.pro
+END
+preparefile.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/preparefile.pro
+END
+sextract_iz.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/scp/!svn/ver/1639/members/jmeyers314/IDL/Cluster/sextract_iz.pro
+END
+makegalfit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/scp/!svn/ver/1639/members/jmeyers314/IDL/Cluster/makegalfit.pro
+END
+galfit.pro
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/scp/!svn/ver/1573/members/jmeyers314/IDL/Cluster/galfit.pro
+END
+addspectra.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/scp/!svn/ver/1639/members/jmeyers314/IDL/Cluster/addspectra.pro
+END
+isophotsky.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/scp/!svn/ver/2323/members/jmeyers314/IDL/Cluster/isophotsky.pro
+END
+cluster2__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/cluster2__define.pro
+END
+cluster3__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/cluster3__define.pro
+END
+sextract1.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/scp/!svn/ver/4244/members/jmeyers314/IDL/Cluster/sextract1.pro
+END
+galapagos1.pro
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/scp/!svn/ver/2678/members/jmeyers314/IDL/Cluster/galapagos1.pro
+END

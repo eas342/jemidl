@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/scp/!svn/ver/7091/members/jmeyers314/IDL/LowZHosts
+END
+doindiv_index_check.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/scp/!svn/ver/7062/members/jmeyers314/IDL/LowZHosts/doindiv_index_check.pro
+END
+lickcheck.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/scp/!svn/ver/6936/members/jmeyers314/IDL/LowZHosts/lickcheck.pro
+END
+doFitPeakCenterResids.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/scp/!svn/ver/6935/members/jmeyers314/IDL/LowZHosts/doFitPeakCenterResids.pro
+END
+convol_fft2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/scp/!svn/ver/7084/members/jmeyers314/IDL/LowZHosts/convol_fft2.pro
+END
+onelick.pro
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/scp/!svn/ver/7014/members/jmeyers314/IDL/LowZHosts/onelick.pro
+END
+doFitSkyWarp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/scp/!svn/ver/6969/members/jmeyers314/IDL/LowZHosts/doFitSkyWarp.pro
+END
+warpPeakComp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/scp/!svn/ver/6969/members/jmeyers314/IDL/LowZHosts/warpPeakComp.pro
+END
+LRISsciplots.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/scp/!svn/ver/7010/members/jmeyers314/IDL/LowZHosts/LRISsciplots.pro
+END
+indiv_index_check.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/scp/!svn/ver/7067/members/jmeyers314/IDL/LowZHosts/indiv_index_check.pro
+END
+flag_telluric_pixels.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/scp/!svn/ver/7088/members/jmeyers314/IDL/LowZHosts/flag_telluric_pixels.pro
+END
+fitSkyWarp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/scp/!svn/ver/6969/members/jmeyers314/IDL/LowZHosts/fitSkyWarp.pro
+END
+onelickflux2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/scp/!svn/ver/7068/members/jmeyers314/IDL/LowZHosts/onelickflux2.pro
+END
+scienceplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/scp/!svn/ver/6936/members/jmeyers314/IDL/LowZHosts/scienceplot.pro
+END
+flag_h2o_telluric_pixels.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/scp/!svn/ver/7088/members/jmeyers314/IDL/LowZHosts/flag_h2o_telluric_pixels.pro
+END
+doMeasurePeakCenters.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/scp/!svn/ver/6935/members/jmeyers314/IDL/LowZHosts/doMeasurePeakCenters.pro
+END
+flag_emission_line_pixels.pro
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/scp/!svn/ver/7082/members/jmeyers314/IDL/LowZHosts/flag_emission_line_pixels.pro
+END
+doApplyWaveCal.pro
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/scp/!svn/ver/7049/members/jmeyers314/IDL/LowZHosts/doApplyWaveCal.pro
+END
+apcomp.pro
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/scp/!svn/ver/6936/members/jmeyers314/IDL/LowZHosts/apcomp.pro
+END
+JM_long_coadd.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/scp/!svn/ver/6986/members/jmeyers314/IDL/LowZHosts/JM_long_coadd.pro
+END
+continuum.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/scp/!svn/ver/7055/members/jmeyers314/IDL/LowZHosts/continuum.pro
+END
+sensfuncplot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/scp/!svn/ver/7063/members/jmeyers314/IDL/LowZHosts/sensfuncplot.pro
+END
+onelickflux.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/scp/!svn/ver/7014/members/jmeyers314/IDL/LowZHosts/onelickflux.pro
+END
+helio_corr.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/scp/!svn/ver/7074/members/jmeyers314/IDL/LowZHosts/helio_corr.pro
+END
+measurePeakCenters.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/scp/!svn/ver/7056/members/jmeyers314/IDL/LowZHosts/measurePeakCenters.pro
+END
+convol_fft_nonstationary.pro
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/scp/!svn/ver/7091/members/jmeyers314/IDL/LowZHosts/convol_fft_nonstationary.pro
+END
+coaddscienceopt.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/6985/members/jmeyers314/IDL/LowZHosts/coaddscienceopt.pro
+END
+jm_long_galstats.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/scp/!svn/ver/7063/members/jmeyers314/IDL/LowZHosts/jm_long_galstats.pro
+END
+applyWaveCal.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/scp/!svn/ver/7012/members/jmeyers314/IDL/LowZHosts/applyWaveCal.pro
+END
+CRchecker.pro
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/scp/!svn/ver/7068/members/jmeyers314/IDL/LowZHosts/CRchecker.pro
+END
+sky5575plot.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/scp/!svn/ver/6935/members/jmeyers314/IDL/LowZHosts/sky5575plot.pro
+END
+tracecheck.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/scp/!svn/ver/7011/members/jmeyers314/IDL/LowZHosts/tracecheck.pro
+END
+fitPeakCenterResids.pro
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/scp/!svn/ver/7049/members/jmeyers314/IDL/LowZHosts/fitPeakCenterResids.pro
+END
+JM_long_combspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/scp/!svn/ver/6997/members/jmeyers314/IDL/LowZHosts/JM_long_combspec.pro
+END
+flag_o2_telluric_pixels.pro
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/scp/!svn/ver/7088/members/jmeyers314/IDL/LowZHosts/flag_o2_telluric_pixels.pro
+END
+twodchecker.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/scp/!svn/ver/7140/members/jmeyers314/IDL/LowZHosts/twodchecker.pro
+END
+coaddscience.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/scp/!svn/ver/7063/members/jmeyers314/IDL/LowZHosts/coaddscience.pro
+END
+extract_check.pro
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/scp/!svn/ver/6969/members/jmeyers314/IDL/LowZHosts/extract_check.pro
+END
+lowzhost_nametranslate.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/scp/!svn/ver/7039/members/jmeyers314/IDL/LowZHosts/lowzhost_nametranslate.pro
+END
+warpSky__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/6969/members/jmeyers314/IDL/LowZHosts/warpSky__define.pro
+END
+readWaveCal.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/scp/!svn/ver/6935/members/jmeyers314/IDL/LowZHosts/readWaveCal.pro
+END

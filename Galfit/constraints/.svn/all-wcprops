@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/scp/!svn/ver/1442/members/jmeyers314/IDL/Galfit/constraints
+END
+galfitratioconstraint__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/scp/!svn/ver/1442/members/jmeyers314/IDL/Galfit/constraints/galfitratioconstraint__define.pro
+END
+galfitconstraint__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/scp/!svn/ver/1442/members/jmeyers314/IDL/Galfit/constraints/galfitconstraint__define.pro
+END
+galfitrelconstraint__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/scp/!svn/ver/1442/members/jmeyers314/IDL/Galfit/constraints/galfitrelconstraint__define.pro
+END
+galfitabsconstraint__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/scp/!svn/ver/1442/members/jmeyers314/IDL/Galfit/constraints/galfitabsconstraint__define.pro
+END
+galfitdiffconstraint__define.pro
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/scp/!svn/ver/1442/members/jmeyers314/IDL/Galfit/constraints/galfitdiffconstraint__define.pro
+END

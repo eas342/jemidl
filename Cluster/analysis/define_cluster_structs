@@ -1,0 +1,53 @@
+CMDgal0 = { CMDgal, $
+            galid:         0L, $
+            rad:           0B, $
+            star:          0B, $
+            morph:         0B, $
+            rsregion:      0B, $
+            specmem:       0B, $
+            specnon:       0B, $
+            no2:           0B, $
+            o2:            0B, $
+            noclue:        0B, $
+            zmag_auto:     !values.f_nan, $
+            zmag_auto_err: !values.f_nan, $
+            iz:            !values.f_nan, $
+            iz_err:        !values.f_nan, $
+	    zmag:          !values.f_nan, $
+	    zmagerr:       !values.f_nan, $
+	    imag:          !values.f_nan, $
+	    imagerr:       !values.f_nan, $
+            gini:          !values.f_nan, $
+            asym:          !values.f_nan, $
+            Re:            !values.f_nan, $
+            n:             !values.f_nan, $
+            SNname:        '', $
+            SNtype:        '', $
+            zspec:         !values.f_nan $
+            }
+
+RSfit0 = { RSfit, $
+           slope:         !values.d_nan, $
+           slope_err:     !values.d_nan, $
+           intercept:     !values.d_nan, $ ;;at z=23
+           intercept_err: !values.d_nan, $
+           mscatter:      !values.d_nan, $ ;;measured scatter
+           mscatter_err:  !values.d_nan, $
+           mscatter_best: !values.d_nan, $
+           scatter_corr:  !values.d_nan, $
+           iscatter:      !values.d_nan, $ ;;intrinsic scatter
+           ngals:         0 $
+           }
+
+CMDcluster0 = { CMDcluster, $
+                clusterid:   '', $
+                clustername: '', $
+                zcluster:    !values.d_nan, $
+                colorrange:  dblarr(2), $
+                magrange:    dblarr(2), $
+                slope:       !values.d_nan, $
+                fit:         ptr_new(), $
+                gals:        ptr_new(), $
+                xhist:       ptr_new(), $
+                yhist:       ptr_new() $
+                }

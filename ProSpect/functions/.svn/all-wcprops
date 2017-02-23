@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/scp/!svn/ver/7010/members/jmeyers314/IDL/ProSpect/functions
+END
+bins2wave.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/scp/!svn/ver/1442/members/jmeyers314/IDL/ProSpect/functions/bins2wave.pro
+END
+wave2bins.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/scp/!svn/ver/1442/members/jmeyers314/IDL/ProSpect/functions/wave2bins.pro
+END
+zeropointspecs.sav
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/scp/!svn/ver/2678/members/jmeyers314/IDL/ProSpect/functions/zeropointspecs.sav
+END
+zeropointspecs_sav.pro
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/scp/!svn/ver/2678/members/jmeyers314/IDL/ProSpect/functions/zeropointspecs_sav.pro
+END
+filters.sav
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/scp/!svn/ver/6498/members/jmeyers314/IDL/ProSpect/functions/filters.sav
+END
+filters_sav.pro
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/scp/!svn/ver/6498/members/jmeyers314/IDL/ProSpect/functions/filters_sav.pro
+END
+iterclipcoaddspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/scp/!svn/ver/1424/members/jmeyers314/IDL/ProSpect/functions/iterclipcoaddspec.pro
+END
+build_outbins.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/scp/!svn/ver/7010/members/jmeyers314/IDL/ProSpect/functions/build_outbins.pro
+END
+rebinspectrum.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/scp/!svn/ver/1442/members/jmeyers314/IDL/ProSpect/functions/rebinspectrum.pro
+END
+scalespec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/scp/!svn/ver/1442/members/jmeyers314/IDL/ProSpect/functions/scalespec.pro
+END
+jem_drizzle1d.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/scp/!svn/ver/6498/members/jmeyers314/IDL/ProSpect/functions/jem_drizzle1d.pro
+END
+scalespectra.pro
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/scp/!svn/ver/1442/members/jmeyers314/IDL/ProSpect/functions/scalespectra.pro
+END
+drizcoaddspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/scp/!svn/ver/6498/members/jmeyers314/IDL/ProSpect/functions/drizcoaddspec.pro
+END

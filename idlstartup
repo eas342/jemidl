@@ -1,0 +1,6 @@
+device, true_color = 24
+device, decomposed = 0
+device, retain = 2
+!quiet=1
+astrolib
+!textout=2

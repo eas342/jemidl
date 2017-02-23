@@ -1,0 +1,6 @@
+MODULE clean3
+DESCRIPTION CLEAN3 algorithm implementation.
+VERSION 1.0
+SOURCE Josh Meyers, John Blakeslee
+BUILD_DATE Dec 16 2008
+FUNCTION CLEAN3 4 4

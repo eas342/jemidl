@@ -1,0 +1,13 @@
+isophotsky0 = { isophotsky, $
+                sky_value:  !values.d_nan, $
+                sky_median: !values.d_nan, $
+                sky_sigma:  !values.d_nan, $
+		sky_total:  !values.d_nan, $
+		exptime:    !values.d_nan $
+              }
+ellipse0 = { ellipse, $
+             center:  dblarr(2), $
+             majaxis: !values.d_nan, $
+             minaxis: !values.d_nan, $
+             theta:   !values.d_nan $
+           }

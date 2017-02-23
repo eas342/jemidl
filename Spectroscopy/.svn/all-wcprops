@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/scp/!svn/ver/7010/members/jmeyers314/IDL/Spectroscopy
+END
+notchpass.pro
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/scp/!svn/ver/1559/members/jmeyers314/IDL/Spectroscopy/notchpass.pro
+END
+rebinspectrum.pro
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/scp/!svn/ver/6929/members/jmeyers314/IDL/Spectroscopy/rebinspectrum.pro
+END
+rebinspectrum2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/scp/!svn/ver/7010/members/jmeyers314/IDL/Spectroscopy/rebinspectrum2.pro
+END
+highpass.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/scp/!svn/ver/1559/members/jmeyers314/IDL/Spectroscopy/highpass.pro
+END
+lowpass.pro
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/scp/!svn/ver/1559/members/jmeyers314/IDL/Spectroscopy/lowpass.pro
+END
+deimos_getspec.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/scp/!svn/ver/1559/members/jmeyers314/IDL/Spectroscopy/deimos_getspec.pro
+END
+coaddspectra.pro
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/scp/!svn/ver/6866/members/jmeyers314/IDL/Spectroscopy/coaddspectra.pro
+END
+getzchi2.pro
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/scp/!svn/ver/6498/members/jmeyers314/IDL/Spectroscopy/getzchi2.pro
+END
+isnot_telluric.pro
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/scp/!svn/ver/1559/members/jmeyers314/IDL/Spectroscopy/isnot_telluric.pro
+END

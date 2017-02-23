@@ -1,0 +1,36 @@
+dlam=1.
+deimos_getspec, $
+ '/home/jmeyers314/scp1/CL-spec/Keck/CL-R/RA/spec1d.R.000.R-012.fits.gz', $
+ wave, flux, ivar
+
+
+t=systime(1)
+
+jem_bin_spectrum, wave, flux, inivar, dlam=dlam, binflux=binflux, binwave=binwave
+
+tjem = systime(1)-t
+print, format='("jem_bin_spectrum",t50,F8.4)', tjem
+
+
+t=systime(1)
+
+inbins = wave2binbounds(wave)
+influx = flux
+inivar = ivar
+wfinite = where(finite(inivar), complement=wnotfinite)
+if wnotfinite[0] ne -1 then inivar[wnotfinite]=0.d
+range = inbins[n_elements(inbins)-1]-inbins[0]
+outbins = dindgen(1+floor(range/dlam+0.00001))*dlam+inbins[0]
+NBINS=n_elements(outbins)
+outwave = (0.5*(outbins+shift(outbins,1)))[1:*]
+preflux = dblarr(NBINS-1)
+preivar = dblarr(NBINS-1)
+blah = drizzle1d( inbins, influx, inivar, outbins, preflux, preivar )
+outflux = blah[0:NBINS-2]
+outivar = blah[NBINS-1:(NBINS-1)*2-1]
+
+tdriz = systime(1)-t
+print, format='("DRIZZLE1D",t50,F8.4)', tdriz
+
+
+print, tjem/tdriz

@@ -1,0 +1,35 @@
+Function convol_fft_nonstationary, f, sigma_px
+  d=size(f, /n_dim)
+  if d eq 1 then begin
+     nfunc=1
+     npix=size(f,/dim)
+  endif else begin
+     s=size(f, /dim)
+     npix = s[0]
+     nfunc = s[1]
+  endelse
+  out = f*0
+  for i=0, npix-1 do begin
+     counter, i+1, npix, 'Convolving wavelength '
+     npixel=2*ceil(4*sigma_px[i])+1
+     lsf = psf_Gaussian(npixel=npixel, st_dev=sigma_px[i], /norm, ndim=1)
+     ;; to speed things up, only convol region near pixel of interest
+     lo = i-npixel-1
+     hi = i+npixel+1
+     if lo lt 0 then begin
+        lo=0
+        hi=2*npixel+2
+     endif
+     if hi gt npix-1 then begin
+        hi=npix-1
+        lo=npix-2*npixel-3
+     endif
+     out[i,*] = (convol_fft2(f[lo:hi,*], lsf))[i-lo,*]
+  endfor
+<<<<<<< .mine
+  print
+=======
+  stop
+>>>>>>> .r7083
+  return, out
+end

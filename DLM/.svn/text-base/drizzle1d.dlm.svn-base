@@ -1,0 +1,6 @@
+MODULE drizzle1d
+DESCRIPTION 1-dimensional drizzling function.
+VERSION 1.0
+SOURCE Josh Meyers
+BUILD_DATE Oct 10 2008
+FUNCTION DRIZZLE1D 6 6
